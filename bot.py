@@ -146,7 +146,7 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "R125R"
+channel = "xomaea"
 menu = '''
 
 A :  ** تحقق من قنوات ومجموعات الحساب **
@@ -175,8 +175,8 @@ L : ** رفع مشرف لشخص معين في قناة او مجموعة **
 
 M : ** تغيير رقم الهاتف  **
 
-** مميزات اكثر قريبا @R125R ** 
- المبرمج: @KFFF6
+** مميزات اكثر قريبا  ** 
+ المبرمج: @XOMAEA
 '''
 mm = '''
 ** اهلا بك في بوت الاختراق  يمكنك اختراق اي شخص عبر كود تيرمكس
